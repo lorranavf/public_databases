@@ -1,0 +1,3 @@
+name: 'Pfam protein families database'
+description: 'The Pfam database is a large collection of protein families, each represented by multiple sequence alignments and hidden Markov models (HMMs)'
+link: 'https://www.ebi.ac.uk/interpro/'
